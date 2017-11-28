@@ -6,16 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/VladimirVdovic/react-native-transformable-image.git"
-  },
   "author": "ldn0x7dc",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/VladimirVdovic/react-native-transformable-image.git/issues"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimirvdovic/react-native-transformable-image.git"
   },
-  "homepage": "https://github.com/VladimirVdovic/react-native-transformable-image.git#readme",
+  "bugs": {
+    "url": "https://github.com/vladimirvdovic/react-native-transformable-image.git/issues"
+  },
+  "homepage": "https://github.com/vladimirvdovic/react-native-transformable-image.git#readme",
   "dependencies": {
     "prop-types": "^15.6.0",
     "react-native-view-transformer": "github:vladimirvdovic/react-native-view-transformer"
